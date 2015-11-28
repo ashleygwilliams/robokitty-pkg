@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test"
   },
   "keywords": [],
   "author": "ag_dubs",
@@ -16,5 +16,9 @@
     "url": "https://github.com/ashleygwilliams/robokitty-pkg/issues"
   },
   "homepage": "https://github.com/ashleygwilliams/robokitty-pkg",
-  "description": "> for @rachelnicole"
+  "description": "> for @rachelnicole",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
 }
