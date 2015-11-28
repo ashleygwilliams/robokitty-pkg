@@ -1,0 +1,20 @@
+{
+  "name": "robokitty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ag_dubs",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/robokitty-pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/robokitty-pkg/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/robokitty-pkg",
+  "description": "> for @rachelnicole"
+}
