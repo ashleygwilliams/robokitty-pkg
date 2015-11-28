@@ -4,3 +4,7 @@
 ```
 > npm install robokitty
 ```
+
+## Features
+
+- `makeCronString`: create a string that defines hourly increments
